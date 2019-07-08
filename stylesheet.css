@@ -1,0 +1,84 @@
+.topnav {
+    overflow: hidden;
+    background-color: black;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: orange;
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+div container {
+    border-radius: 50px;
+    height: 50px;
+    width: 75px;
+    background-color: paleturquoise;
+}
+
+
+body {
+    background-color: lavender;
+}
+
+h1 {
+    font-family: 'DINAlternateBold', sans-serif !important ;
+    color: black;
+}
+
+h2 {
+    font-family: 'DINAlternateBold', sans-serif !important ;
+    color: black;
+}
+
+p {
+    font-family: 'DINAlternateBold', sans-serif !important ;
+    font-size: 15px;
+}
+
+p.address {
+    font-family: 'DINAlternateBold', sans-serif !important ;
+    font-size: 15px;
+    text-align: center;
+}
+
+ul {
+    font-family: 'DINAlternateBold', sans-serif !important ;
+    font-size: 15px;
+}
+
+.image1 {
+     border-radius: 50%;
+     height: 200px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+.image2 {
+    height:500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+
+}
