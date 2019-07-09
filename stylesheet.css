@@ -40,32 +40,6 @@ body {
     background-color: lavender;
 }
 
-h1 {
-    font-family: 'DINAlternateBold', sans-serif !important ;
-    color: black;
-}
-
-h2 {
-    font-family: 'DINAlternateBold', sans-serif !important ;
-    color: black;
-}
-
-p {
-    font-family: 'DINAlternateBold', sans-serif !important ;
-    font-size: 15px;
-}
-
-p.address {
-    font-family: 'DINAlternateBold', sans-serif !important ;
-    font-size: 15px;
-    text-align: center;
-}
-
-ul {
-    font-family: 'DINAlternateBold', sans-serif !important ;
-    font-size: 15px;
-}
-
 .image1 {
      border-radius: 50%;
      height: 200px;
